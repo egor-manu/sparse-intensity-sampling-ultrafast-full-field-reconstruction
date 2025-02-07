@@ -1,4 +1,4 @@
-# Sparse Intensity Sampling & Ultrafast Full-Field Reconstruction
+# Sparse intensity sampling for ultrafast full-field reconstruction in low-dimensional photonic systems
 
 This repository contains MATLAB code for sparse intensity sampling in ultrafast full-field reconstruction in low-dimensional photonic systems. The implementation is based on the methods described in the publication:
 
