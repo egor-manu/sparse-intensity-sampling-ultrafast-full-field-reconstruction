@@ -299,7 +299,7 @@ classdef SparseModeDecompositionSimulator < handle
         end
 
         function array3D = reshape2Dto3D(~, array2D)
-            [numPix, dim3] = size(array2D, 1);
+            [numPix, dim3] = size(array2D);
             dim1 = sqrt(numPix);
             array3D = reshape(array2D, [dim1, dim1, dim3]);
         end
